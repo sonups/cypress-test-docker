@@ -20,38 +20,35 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/sonups/cypress-test-docker">
-    <img src="https://hackernoon.com/hn-images/1*IrV85j4bpBjZocD5jVnCHQ.jpeg" alt="Logo" width="300" height="150">
-  </a>
-  <h3 align="center">Cypress Test Automation</h3>
-  <p align="center">
-    Cypress test automation using docker. Run all your End to end tests silently 
-
+   <a href="https://github.com/sonups/cypress-test-docker">
+   <img src="https://hackernoon.com/hn-images/1*IrV85j4bpBjZocD5jVnCHQ.jpeg" alt="Logo" width="300" height="150">
+   </a>
+<h3 align="center">Cypress Test Automation</h3>
+<p align="center">
+   Cypress test automation using docker. Run all your UI End to end tests silently 
 </p>
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-        <ul>
-        <li><a href="#optional-to-check-other-project-features">[Optional] To check other project features</a></li>
-      </ul>
-      
-    </li>
-  <li>
-      <a href="#steps-in-a-nutshell">Steps In a nutshell</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation--execution">Installation & Execution</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
+   <summary>Table of Contents</summary>
+   <ol>
+      <li>
+         <a href="#about-the-project">About The Project</a>
+         <ul>
+            <li><a href="#built-with">Built With</a></li>
+         </ul>
+         <ul>
+            <li><a href="#optional-to-check-other-project-features">[Optional] To check other project features</a></li>
+         </ul>
+      </li>
+      <li>
+         <a href="#steps-in-a-nutshell">Steps In a nutshell</a>
+         <ul>
+            <li><a href="#prerequisites">Prerequisites</a></li>
+            <li><a href="#installation--execution">Installation & Execution</a></li>
+         </ul>
+      </li>
+      <li><a href="#contact">Contact</a></li>
+   </ol>
 </details>
 
 
